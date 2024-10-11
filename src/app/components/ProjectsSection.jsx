@@ -8,11 +8,11 @@ const projectsData = [
   {
     id: 1,
     title: "Algorithm Analyze AI Website",
-    description: "Discover the complexity of your algorithm with the assistance of a specially trained machine learning model on our platform. Click the preview icon or visit the website: https://algorithm-analyze.herokuapp.com/.",
+    description: "Discover the complexity of your algorithm with the assistance of a specially trained machine learning model on our platform. Click the preview icon or visit the website: https://kyryl-lebedin.github.io/alg-analyze-demonstration/",
     image: "/images/projects/1.gif",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/kyryl-lebedin/algorithm_analyze",
-    previewUrl: "/",
+    previewUrl: "https://kyryl-lebedin.github.io/alg-analyze-demonstration/",
   },
   {
     id: 2,
