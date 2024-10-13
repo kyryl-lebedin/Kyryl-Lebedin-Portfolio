@@ -28,7 +28,7 @@ const TAB_DATA = [
           <span className="font-bold">Other</span>
           <ul className="pl-4 list-disc">
             <li>DB: PostgreSQL, MySQL, NoSQL</li>
-            <li>Project Management: Git, Slack, Jira, design patterns, SOLID, object-oriented programming</li>
+            <li>Project Management: Git, Slack, Jira, Scrum, Agile, design patterns, SOLID, object-oriented programming</li>
             <li>Time Management: GTD, Zettelkasten</li>
           </ul>
         </li>
