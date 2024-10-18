@@ -20,7 +20,7 @@ const TAB_DATA = [
         <li className="mt-4">
           <span className="font-bold">JavaScript and Frontend</span>
           <ul className="pl-4 list-disc">
-            <li>Backend: Node.js, Express, REST API, CRUD</li>
+            <li>Backend: Node.js, Express, REST API</li>
             <li>Frontend: React, Redux, Bootstrap, html, css</li>
           </ul>
         </li>
